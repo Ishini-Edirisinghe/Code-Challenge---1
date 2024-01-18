@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.ijse</groupId>
-    <artifactId>AAD-POS</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>aad-pos</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>AAD-POS</name>
+    <name>aad-pos</name>
     <packaging>war</packaging>
 
     <properties>
@@ -115,6 +115,8 @@
             <artifactId>jackson-databind</artifactId>
             <version>2.13.0</version> <!-- Use the latest version available -->
         </dependency>
+
+
     </dependencies>
 
     <build>
