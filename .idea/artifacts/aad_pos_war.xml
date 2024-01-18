@@ -9,7 +9,7 @@
         <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="aad-pos-1.0-SNAPSHOT.war">
+    <root id="archive" name="AAD-POS-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="aad-pos:war exploded" />
     </root>
   </artifact>
